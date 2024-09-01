@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jasmin Karki.
 - 👀 I’m interested in challenging myself by learning new things.
-- 🌱 I’m currently studying Cyber Physical Systems in IITM.
+- 🌱 I’ve completed by Masters in Technology, Specialization in Cyber Physical Systems from IITM.
 - 📫 You can contact me at jasminkarki8@gmail.com
 
 <!---
